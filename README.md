@@ -11,17 +11,21 @@ negative view about that topic. To classify the given tweet into positive or neg
 category.
 # Challenges/Research Issues:
 To find the best dataset for training and testing.
+
 To try various feature extraction techniques.
 1) bag of words model
 2) word2vec model
 3) CountVectorizer
+
 To try 2 different approaches for predicting sentiment.
 1) Lexicon based approach
 2) Machine Learning
+
 To try out various models.
 1) Linear Regression
 2) Naive Bayes
 3) Sequential Model
+
 # Methodology/Algorithm:
 Preprocess tweet into tokens. Remove hashtag, hyperlinks, stopwords.
 Used word2vec neural network model to convert every token into vector.
