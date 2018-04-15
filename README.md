@@ -52,16 +52,12 @@ emoticon.
 hand-classified sentiments.
    # Articles:
 1) https://www.youtube.com/watch?v=si8zZHkufRY&t=501s
-2) https://blog.griddynamics.com/creating-training-and-test-data-sets-and-prepar
-ing-the-data-for-twitter-stream-sentiment-analysis-of-social-movie-reviews/
+2) https://blog.griddynamics.com/creating-training-and-test-data-sets-and-preparing-the-data-for-twitter-stream-sentiment-analysis-of-social-movie-reviews/
 3) http://www.awesomestats.in/python-sentiment-tweets/
-4) http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-c
-omplete-tutorial/
-5) https://realpython.com/flask-by-example-part-3-text-processing-with-requests
--beautifulsoup-nltk/
+4) http://cv-tricks.com/tensorflow-tutorial/save-restore-tensorflow-models-quick-complete-tutorial/
+5) https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/
 6) https://machinelearningmastery.com/clean-text-machine-learning-python/
-7) https://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-pyt
-hon-flask-and-mysql--cms-22972
+7) https://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972
    # Research papers:
 1) A survey of sentiment analysis techniques
 https://ieeexplore.ieee.org/document/8058315/
