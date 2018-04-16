@@ -6,7 +6,8 @@ Swapnil Athawale (B15CS038)
 To get the opinion of peoples on any topic/product/issue.
 Any company would want to know how people are reacting to its product.
 Any political party would want to know whether people are supporting or not.
-Objective: ​ To determine whether the expressed tweet is expressing positive or
+ # Objective:
+   To determine whether the expressed tweet is expressing positive or
 negative view about that topic. To classify the given tweet into positive or negative
 category.
 # Challenges/Research Issues:
